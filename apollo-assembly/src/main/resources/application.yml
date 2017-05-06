@@ -5,7 +5,7 @@ spring:
 logging:
   level:
     org.springframework.cloud: 'DEBUG'
-  file: /opt/logs/100003171/apollo-assembly.log
+  file: /Users/chenlushun/opt/logs/100003171/apollo-assembly.log
 
 
 
